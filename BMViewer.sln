@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMViewer.View", "BMViewer.View\BMViewer.View.csproj", "{B3FB76CA-7C70-46CD-AC39-80B2E480CFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMViewer.Model", "BMViewer.Model\BMViewer.Model.csproj", "{239B5725-FA31-49EE-B10A-8D41A9644541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FB76CA-7C70-46CD-AC39-80B2E480CFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FB76CA-7C70-46CD-AC39-80B2E480CFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FB76CA-7C70-46CD-AC39-80B2E480CFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FB76CA-7C70-46CD-AC39-80B2E480CFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239B5725-FA31-49EE-B10A-8D41A9644541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239B5725-FA31-49EE-B10A-8D41A9644541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239B5725-FA31-49EE-B10A-8D41A9644541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239B5725-FA31-49EE-B10A-8D41A9644541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0F9457-4732-4493-A068-5C6B595D0380}
+	EndGlobalSection
+EndGlobal

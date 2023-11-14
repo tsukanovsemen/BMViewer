@@ -1,0 +1,6 @@
+D:\repos\BMViewer\BMViewer\BMViewer.Model\obj\Debug\BMViewer.Model.csproj.AssemblyReference.cache
+D:\repos\BMViewer\BMViewer\BMViewer.Model\obj\Debug\BMViewer.Model.csproj.CoreCompileInputs.cache
+D:\repos\BMViewer\BMViewer\BMViewer.Model\bin\Debug\BMViewer.Model.dll
+D:\repos\BMViewer\BMViewer\BMViewer.Model\bin\Debug\BMViewer.Model.pdb
+D:\repos\BMViewer\BMViewer\BMViewer.Model\obj\Debug\BMViewer.Model.dll
+D:\repos\BMViewer\BMViewer\BMViewer.Model\obj\Debug\BMViewer.Model.pdb
