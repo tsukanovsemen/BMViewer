@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BMViewer.Model
 {
@@ -169,7 +165,6 @@ namespace BMViewer.Model
         /// <returns></returns>
         public static Bitmap AdjustBrightness(Bitmap Image, int Value)
         {
-
             Bitmap TempBitmap = Image;
 
             Bitmap NewBitmap = new Bitmap(TempBitmap.Width, TempBitmap.Height);
@@ -197,7 +192,15 @@ namespace BMViewer.Model
 
             Attributes.SetColorMatrix(NewColorMatrix);
 
-            NewGraphics.DrawImage(TempBitmap, new Rectangle(0, 0, TempBitmap.Width, TempBitmap.Height), 0, 0, TempBitmap.Width, TempBitmap.Height, GraphicsUnit.Pixel, Attributes);
+            NewGraphics.DrawImage(
+                TempBitmap, 
+                new Rectangle(0, 0, TempBitmap.Width, TempBitmap.Height), 
+                0, 
+                0, 
+                TempBitmap.Width, 
+                TempBitmap.Height, 
+                GraphicsUnit.Pixel, 
+                Attributes);
 
             Attributes.Dispose();
 

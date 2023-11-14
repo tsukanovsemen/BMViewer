@@ -12,3 +12,17 @@ D:\repos\BMViewer\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.pdb
 D:\repos\BMViewer\BMViewer\BMViewer.View\bin\Debug\BMViewer.Model.dll
 D:\repos\BMViewer\BMViewer\BMViewer.View\bin\Debug\BMViewer.Model.pdb
 D:\repos\BMViewer\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.csproj.CopyComplete
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\bin\Debug\BMViewer.View.exe.config
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\bin\Debug\BMViewer.View.exe
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\bin\Debug\BMViewer.View.pdb
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\bin\Debug\BMViewer.Model.dll
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\bin\Debug\BMViewer.Model.pdb
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.csproj.AssemblyReference.cache
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.MainForm.resources
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.Properties.Resources.resources
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.csproj.GenerateResource.cache
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.csproj.CoreCompileInputs.cache
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.csproj.CopyComplete
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.exe
+D:\Учеба\ГМвСАПР\BMViewer\BMViewer.View\obj\Debug\BMViewer.View.pdb
